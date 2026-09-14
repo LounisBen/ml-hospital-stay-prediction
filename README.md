@@ -38,6 +38,10 @@ Le projet comprend plusieurs étapes :
 6. Évaluation avec R², MSE et RMSE
 7. Prédiction sur de nouvelles données
 
+### Analyse des corrélations
+
+![Matrice de corrélation](IMAGES/correlation_heatmap.png)
+
 ## Résultats
 
 Le modèle obtient les performances suivantes :
@@ -47,6 +51,8 @@ Le modèle obtient les performances suivantes :
 - **RMSE : 0,46 jour**, soit environ 11 heures
 
 Le modèle explique environ 66 % des variations de la durée moyenne de séjour. Les résultats sont corrects mais restent perfectibles.
+
+![Valeurs réelles vs valeurs prédites](IMAGES/actual_vs_predicted.png)
 
 ## Conclusion
 
